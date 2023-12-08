@@ -2,7 +2,7 @@
 
 ## Live Link Surge
 
-- **Live Link:** [FruitHarmony]()
+- **Live Link:** [FruitHarmony](https://mahfuzrahman99.github.io/Assignment-Three/)
 
 ## Overview
 
